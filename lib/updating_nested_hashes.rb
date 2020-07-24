@@ -65,12 +65,12 @@ def add_characters
 
    faupax = {
      :name => "Prince Escalus"
-     
+
    },
    {
      :name => "Apothecary"
    }
-   
+
 
 
 
