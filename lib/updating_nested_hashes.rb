@@ -63,13 +63,13 @@ def add_characters
 
    faupax = epic_tragedy[:additional_characters]
 
-   faupax = {
-     :name => "Prince Escalus"
+   faupax = [
+     {:name => "Prince Escalus"
 
    },
    {
      :name => "Apothecary"
-   }
+   }]
 
 
 
